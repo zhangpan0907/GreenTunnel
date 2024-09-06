@@ -43,13 +43,13 @@
     "is-docker": "^2.0.0",
     "lru-cache": "^5.1.1",
     "node-localstorage": "^2.1.5",
-    "ora": "^3.2.0",
+    "ora": "^6.0.1",
     "std-env": "^2.2.1",
-    "universal-analytics": "^0.4.20",
-    "update-notifier": "^2.5.0",
+    "universal-analytics": "^0.4.21",
+    "update-notifier": "^7.3.0",
     "validator": "^10.11.0",
     "winreg": "^1.2.4",
-    "yargs": "^13.2.2"
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
